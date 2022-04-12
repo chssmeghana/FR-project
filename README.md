@@ -1,1 +1,1 @@
-# FR-project
+# Face recognition
